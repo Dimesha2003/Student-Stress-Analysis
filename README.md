@@ -37,8 +37,6 @@ This project provides insights into the stress levels of university undergraduat
 
 Author
 
-
-
-Dimesha Aishani
+Dimesha Eshani
 Bachelor of Honours in Information and Communication Technology
 General Sir John Kotelawala Defence University (KDU)
