@@ -36,9 +36,7 @@ Conclusion
 This project provides insights into the stress levels of university undergraduate students and identifies the key factors that contribute to student stress.
 
 Author
-Dimesha Eshani
-Bachelor of Honours in Information and Communication Technology
-General Sir John Kotelawala Defence University (KDU)
+
 
 
 Dimesha Aishani
